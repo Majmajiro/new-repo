@@ -1,2 +1,2 @@
 #Practice makes progress
-New repo for practice 
+New repo for practice - to better understand
